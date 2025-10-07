@@ -28,8 +28,7 @@ Résultat : un sentiment de contrôle, de sérénité, et une meilleure concentr
 
 # Très important :
 
-**_Prévention contre les sabotages ou maladresses en entreprise. 
-_**
+** _ Prévention contre les sabotages ou maladresses en entreprise. _ **
 Dans un contexte professionnel, ce système offre une protection contre les actes internes, parfois négligés mais fréquents :
 
 **Plus de risque qu’un collègue malveillant accède à votre session pour saboter un travail,** **supprimer un fichier,**  <ins> ou </ins> ** altérer un document confidentiel.**
