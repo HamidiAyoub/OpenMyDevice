@@ -31,7 +31,7 @@ Résultat : un sentiment de contrôle, de sérénité, et une meilleure concentr
 _ **Prévention contre les sabotages ou maladresses en entreprise.**_
 Dans un contexte professionnel, ce système offre une protection contre les actes internes, parfois négligés mais fréquents :
 
-**Plus de risque qu’un collègue malveillant accède à votre session pour saboter un travail,** **supprimer un fichier,**  <ins> ou </ins> ** altérer un document confidentiel.**
+**Plus de risque qu’un collègue malveillant accède à votre session pour saboter un travail,** **supprimer un fichier,**  <ins> ou </ins>  **altérer un document confidentiel.**
 Vous évitez les modifications accidentelles pendant une pause ou un déplacement, qui pourraient perturber une présentation importante ou fausser des données sensibles.
 C’est aussi un excellent moyen de renforcer la confiance dans un environnement de travail partagé ou en open space. 
 
