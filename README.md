@@ -4,7 +4,7 @@ Plus de sécurité pour votre ordinateur, une double authentification est une é
 Chaque jour, des millions de personnes ferment leur session avec une inquiétude silencieuse : "Et si quelqu’un accède à mon ordinateur pendant mon absence ?"
 
 💡 Ne laissez pas votre session Windows sans défense.
-##Avec OpenMyDevice, reprenez le contrôle de votre sécurité numérique.
+**Avec OpenMyDevice, reprenez le contrôle de votre sécurité numérique.**
 
 🌐  Pour qui ?
 OpenMyDevice est idéal pour :
