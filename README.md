@@ -14,7 +14,19 @@ OpenMyDevice est idéal pour :
 * Les étudiants ou chercheurs manipulant des données sensibles.
 * Toute personne soucieuse de protéger son ordinateur et sa tranquillité d’esprit.
 
-Ce projet informatique plus précisément de sécurité informatique a pour objectif d'augmenter la sécurité en matière de la connexion à la session, en ajoutant une double authentification après l'ouverture de cette dernière. Une étape primordiale pour augmenter le niveau de sécurité et minimise le risque de perdre son travail son énergie et son temps.
+✅ Sécurité renforcée, sérénité assurée
+
+OpenMyDevice répond à un besoin croissant de sécurité sur les postes de travail personnels et professionnels. En intégrant une couche d’authentification supplémentaire, l’application :
+
+🔒 **Bloque tout accès non autorisé, même si votre mot de passe principal est compromis.**
+
+🛡️** Protège vos documents sensibles contre les modifications, suppressions ou vols.**
+
+📂 **Préserve votre travail, vos projets et vos données personnelles des intrusions.**
+
+🧠 **Réduit considérablement le stress lié au risque de piratage ou d’accès non désiré.**
+
+_Ce projet informatique plus précisément de sécurité informatique a pour objectif d'augmenter la sécurité en matière de la connexion à la session, en ajoutant une double authentification après l'ouverture de cette dernière. Une étape primordiale pour augmenter le niveau de sécurité et minimise le risque de perdre son travail son énergie et son temps._
 
 # Cette App :
 
@@ -35,10 +47,11 @@ Dans un contexte professionnel, ce système offre une protection contre les acte
 Vous évitez les modifications accidentelles pendant une pause ou un déplacement, qui pourraient perturber une présentation importante ou fausser des données sensibles.
 C’est aussi un excellent moyen de renforcer la confiance dans un environnement de travail partagé ou en open space. 
 
-✅ **Responsabilisation individuelle :**
+*✅ **Responsabilisation individuelle :**
 Chaque utilisateur devient acteur de sa propre cybersécurité, ce qui crée une culture de vigilance et de prévention.
-✅ **Image professionnelle renforcée :**
+*✅ **Image professionnelle renforcée :**
 Pour les indépendants ou entreprises, l’utilisation de cette application montre un engagement fort pour la confidentialité, renforçant la confiance des clients et partenaires.
-✅ **C’est une tranquillité d’esprit retrouvée, un espace de travail protégé, et une barrière contre les erreurs ou intentions malveillantes.**
+*✅ **C’est une tranquillité d’esprit retrouvée, un espace de travail protégé, et une barrière contre les erreurs ou intentions malveillantes.**
+
 
 
