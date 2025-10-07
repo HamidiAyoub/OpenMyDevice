@@ -1,4 +1,4 @@
-# OpenMyDevice
+# OpenMyDevice  _Code en main, cerveau en paix_
 Plus de sécurité pour votre ordinateur, une double authentification est une évidence.  
 
 Chaque jour, des millions de personnes ferment leur session avec une inquiétude silencieuse : "Et si quelqu’un accède à mon ordinateur pendant mon absence ?"
@@ -41,4 +41,4 @@ Chaque utilisateur devient acteur de sa propre cybersécurité, ce qui crée une
 Pour les indépendants ou entreprises, l’utilisation de cette application montre un engagement fort pour la confidentialité, renforçant la confiance des clients et partenaires.
 ✅ **C’est une tranquillité d’esprit retrouvée, un espace de travail protégé, et une barrière contre les erreurs ou intentions malveillantes.**
 
-# Clé en main, cerveau en paix
+
