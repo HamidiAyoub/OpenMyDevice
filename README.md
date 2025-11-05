@@ -1,4 +1,4 @@
-# _ 🔥🔥🔥 Offre exclusive sur Ulule : https://fr.ulule.com/openmydevice _
+# 🔥🔥🔥 Offre exclusive sur Ulule : https://fr.ulule.com/openmydevice
 # 💡 OpenMyDevice  🧠 _ Un Code en mains, Un Cerveau en paix_
 Plus de sécurité pour votre ordinateur, une double authentification est une évidence.  
 
